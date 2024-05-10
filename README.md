@@ -127,6 +127,25 @@ Para mais informações sobre cada funcionalidade, você pode acessar o [site do
 Essa abordagem garante uma transição suave do processo de implantação para o acompanhamento contínuo do cliente, garantindo que eles recebam o suporte necessário em todas as etapas do uso da plataforma.
 
 ---
+#Hierarquias
+![Slide8](https://github.com/LuanLgn/Aula09/blob/main/Aula09/Slide%2008%20hierarquias.PNG)
+-O que são hierarquias
+![Slide9](https://github.com/LuanLgn/Aula09/blob/main/Aula09/Slide%2009%20adm.PNG)
+-Tem acesso a todo sistema
+-Podem criar todo tipo de Operador incluindo outros Administradores
+-Podem controlar todas as permissões e grupos dentro da plataforma
+![Slide10](https://github.com/LuanLgn/Aula09/blob/main/Aula09/Slide%2010%20gerentes.PNG)
+-Estão limitados aos seus Grupos;
+-Podem criar outros Operadores, mas não outros Gerentes ou Administradores;
+-Todos os registros que criam devem afetar apenas seus Grupos;
+![Slide11](https://github.com/LuanLgn/Aula09/blob/main/Aula09/Slide%2011%20operadores%20comum.PNG))
+-Não tem privilégios
+-Feito para operar no dia-a-dia
+-Não promove alterações estruturais
+-Administradores
+-Gerentes
+
+---
 
 # Curiosidades
 
