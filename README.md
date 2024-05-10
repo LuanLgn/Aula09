@@ -80,3 +80,46 @@ Vamos comparar ITSM (IT Service Management) com ESM (Enterprise Service Manageme
 - Ambos podem utilizar ferramentas e frameworks semelhantes, como ITIL, para ajudar na implementação e gestão dos serviços.
 
 Em resumo, enquanto ITSM se concentra no gerenciamento de serviços de TI, ESM estende esses princípios para abranger todos os serviços e processos de negócios da empresa, buscando uma abordagem mais holística para o gerenciamento de serviços em toda a organização.
+
+---
+# Service Level Agreement (SLA)
+
+Um Service Level Agreement (SLA) é um acordo formal entre um provedor de serviços e seu cliente que estabelece as expectativas e responsabilidades relacionadas à prestação de um serviço. Este documento define os níveis de serviço que serão entregues, as métricas de desempenho que serão monitoradas e as consequências caso esses níveis não sejam atendidos.
+
+## Elementos Principais de um SLA:
+
+### 1. Objetivos de Desempenho:
+   - Estabelece metas quantitativas e qualitativas que o provedor de serviços deve alcançar.
+
+### 2. Métricas de Desempenho:
+   - Define os indicadores-chave que serão monitorados para avaliar o desempenho do serviço, como tempo de resposta, disponibilidade, tempo de resolução, entre outros.
+
+### 3. Responsabilidades e Escopo:
+   - Especifica as responsabilidades do provedor de serviços e do cliente, bem como o escopo do serviço a ser prestado.
+
+### 4. Procedimentos de Relatórios e Monitoramento:
+   - Estabelece como os dados serão coletados, relatados e monitorados para garantir o cumprimento dos termos do SLA.
+
+### 5. Acordos de Nível de Serviço:
+   - Define os compromissos específicos de desempenho, como tempo de atividade mínimo, tempo de resposta máximo, etc.
+
+### 6. Penalidades e Compensações:
+   - Especifica as penalidades ou compensações que serão aplicadas caso os níveis de serviço acordados não sejam alcançados.
+
+## Importância do SLA:
+
+- **Gerenciamento de Expectativas:** Define claramente o que o cliente pode esperar do provedor de serviços.
+- **Responsabilização:** Estabelece responsabilidades claras para ambas as partes, incentivando a prestação eficaz do serviço.
+- **Medição de Desempenho:** Fornece métricas objetivas para avaliar o desempenho do serviço.
+- **Resolução de Conflitos:** Serve como referência para resolver disputas relacionadas ao serviço.
+
+## Conclusão:
+
+Um SLA é uma ferramenta fundamental para garantir a qualidade e consistência dos serviços prestados, ao mesmo tempo em que promove a transparência e a confiança entre o provedor de serviços e seu cliente.
+
+---
+
+#Curiosidades
+
+A Desk Manager possui condições técnicas para oferecer e manter disponibilidade do Software Desk Manager em 99% do tempo, em cada mês civil, desde que observados os termos e condições dos Termos de Uso e Contrato de Licença
+
