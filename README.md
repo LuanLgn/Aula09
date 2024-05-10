@@ -115,6 +115,12 @@ Para mais informações sobre cada funcionalidade, você pode acessar o [site do
 
 ---
 
+#Curiosidades
+
+A Desk Manager possui condições técnicas para oferecer e manter disponibilidade do Software Desk Manager em 99% do tempo, em cada mês civil, desde que observados os termos e condições dos Termos de Uso e Contrato de Licença
+
+---
+
 # Importância da Gamificação em Empresas
 
 A gamificação, que é a aplicação de elementos de jogos em contextos não relacionados a jogos, tem se mostrado uma ferramenta poderosa para engajar funcionários, aumentar a produtividade e promover a aprendizagem em ambientes corporativos. Aqui estão alguns pontos que destacam a importância da gamificação em empresas:
@@ -136,6 +142,7 @@ A gamificação, que é a aplicação de elementos de jogos em contextos não re
 8. **Inovação e Criatividade:** A gamificação pode estimular a inovação e a criatividade, incentivando os funcionários a pensar de forma mais criativa e a buscar soluções inovadoras para os desafios.
 
 Em resumo, a gamificação é uma ferramenta poderosa para aumentar o engajamento, a motivação e a produtividade dos funcionários, promovendo uma cultura corporativa positiva e contribuindo para o sucesso geral da empresa.
+
 
 ---
 
@@ -174,9 +181,4 @@ Um Service Level Agreement (SLA) é um acordo formal entre um provedor de servi�
 
 Um SLA é uma ferramenta fundamental para garantir a qualidade e consistência dos serviços prestados, ao mesmo tempo em que promove a transparência e a confiança entre o provedor de serviços e seu cliente.
 
----
-
-#Curiosidades
-
-A Desk Manager possui condições técnicas para oferecer e manter disponibilidade do Software Desk Manager em 99% do tempo, em cada mês civil, desde que observados os termos e condições dos Termos de Uso e Contrato de Licença
 
