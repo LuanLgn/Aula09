@@ -110,8 +110,21 @@ O Desk Manager oferece 12 funcionalidades principais:
 Para mais informações sobre cada funcionalidade, você pode acessar o [site do Desk Manager](https://deskmanager.com.br/funcionalidades/).
 
 
-## Como funciona
-- O time de implantação faz um treinamento com a equipe e depois do treinamento passa o bastão pro CSM apenas para acomapanhar o cliente.
+### Gestão de Implantação e Acompanhamento do Cliente
+
+- **Treinamento Inicial:**
+  - O time de implantação conduz um treinamento abrangente com os clientes para garantir que compreendam totalmente a plataforma e suas funcionalidades.
+
+- **Transição para o Customer Success Manager (CSM):**
+  - Após o treinamento inicial, o time de implantação passa o bastão para o CSM, que assume a responsabilidade de acompanhar o cliente de perto.
+
+- **Acompanhamento Contínuo:**
+  - O CSM continua a acompanhar o cliente, oferecendo suporte contínuo e estando disponível para responder a quaisquer perguntas ou preocupações que surjam.
+
+- **Treinamento Adicional:**
+  - Quando novas funcionalidades são lançadas ou quando há necessidade de atualização, o CSM pode conduzir treinamentos adicionais para garantir que o cliente esteja atualizado e possa aproveitar ao máximo a plataforma.
+
+Essa abordagem garante uma transição suave do processo de implantação para o acompanhamento contínuo do cliente, garantindo que eles recebam o suporte necessário em todas as etapas do uso da plataforma.
 
 ---
 
