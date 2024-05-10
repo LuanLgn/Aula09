@@ -87,18 +87,18 @@ Em resumo, enquanto ITSM se concentra no gerenciamento de serviços de TI, ESM e
 
 O Desk Manager oferece 12 funcionalidades principais:
 
-1. Chamado
-2. Projeto
-3. CMDB
-4. Despesa
-5. Satisfação
-6. Gamificação
-7. Conhecimento
-8. Conversa
-9. SLA
-10. Ponto
-11. Painel
-12. Empresa
+1. Chamado: Aqui que a equipe trabalha a maior parte do tempo, organizando e interagindo com os atendimentos de forma muito intuitiva.
+2. Projeto: Faça a sua gestão de projetos de maneira simplificada, relacione com um chamado aberto ou não da sua operação.
+3. CMDB: Cadastre todo o parque de ativos e passivos da sua empresa ou de seus clientes.
+4. Despesa: Por aqui é possível controlar todas as despesas extras que sua equipe possui durante o exercício de sua função.
+5. Satisfação: Crie questionários personalizados com possibilidade de respostas alternativas, de múltipla-escolha ou dissertativas.
+6. Gamificação:Excelente para despertar o interesse e promover o engajamento dos seus colaboradores de forma divertida.
+7. Conhecimento:Uma forma simples de construir a base de conhecimento da sua operação e compartilhar procedimentos, tutoriais e documentações.
+8. Conversa: Recurso incrível dentro do Aplicativo Chamado com um módulo de resposta para clientes que usam o WhatsApp como canal de comunicação.
+9. SLA: Controle prazos e o tempo de resposta da sua equipe para cada atendimento realizado, garantindo um alto nível de satisfação do seu cliente.
+10. Ponto: Este App se torna fundamental para gestores que precisam controlar os horários de entrada e saída da equipe.
+11. Painel: Aqui são realizadas as configurações gerais da Desk Manager, ele cria os perfis de permissões e grupos de solucionadores do seu negócio.
+12. Empresa: Por aqui você faz o cadastro de todos os clientes e usuários que são atendidos pela sua operação.
 
 ## Visão Geral
 
@@ -115,7 +115,7 @@ Para mais informações sobre cada funcionalidade, você pode acessar o [site do
 
 ---
 
-#Curiosidades
+# Curiosidades
 
 A Desk Manager possui condições técnicas para oferecer e manter disponibilidade do Software Desk Manager em 99% do tempo, em cada mês civil, desde que observados os termos e condições dos Termos de Uso e Contrato de Licença
 
@@ -143,6 +143,8 @@ A gamificação, que é a aplicação de elementos de jogos em contextos não re
 
 Em resumo, a gamificação é uma ferramenta poderosa para aumentar o engajamento, a motivação e a produtividade dos funcionários, promovendo uma cultura corporativa positiva e contribuindo para o sucesso geral da empresa.
 
+
+[Mais detalhado sobre o software de gamificação da Desk Manager](https://deskmanager.com.br/funcionalidades/software-gamificacao/)
 
 ---
 
@@ -177,8 +179,8 @@ Um Service Level Agreement (SLA) é um acordo formal entre um provedor de servi�
 - **Medição de Desempenho:** Fornece métricas objetivas para avaliar o desempenho do serviço.
 - **Resolução de Conflitos:** Serve como referência para resolver disputas relacionadas ao serviço.
 
-## Conclusão:
+---
 
-Um SLA é uma ferramenta fundamental para garantir a qualidade e consistência dos serviços prestados, ao mesmo tempo em que promove a transparência e a confiança entre o provedor de serviços e seu cliente.
+
 
 
