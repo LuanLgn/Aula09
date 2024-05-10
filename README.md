@@ -81,9 +81,37 @@ Vamos comparar ITSM (IT Service Management) com ESM (Enterprise Service Manageme
 
 Em resumo, enquanto ITSM se concentra no gerenciamento de serviços de TI, ESM estende esses princípios para abranger todos os serviços e processos de negócios da empresa, buscando uma abordagem mais holística para o gerenciamento de serviços em toda a organização.
 
-##Overview
-![Overview p1](https://github.com/LuanLgn/Aula09/blob/main/Aula09/Overview%20pt1.PNG)
-![Overview p2](https://github.com/LuanLgn/Aula09/blob/main/Aula09/Overview%20pt2.PNG)
+# Overview
+
+## Funcionalidades
+
+O Desk Manager oferece 12 funcionalidades principais:
+
+1. Chamado
+2. Projeto
+3. CMDB
+4. Despesa
+5. Satisfação
+6. Gamificação
+7. Conhecimento
+8. Conversa
+9. SLA
+10. Ponto
+11. Painel
+12. Empresa
+
+## Visão Geral
+
+- [Visão Geral - Parte 1](https://github.com/LuanLgn/Aula09/blob/main/Aula09/Overview%20pt1.PNG)
+- [Visão Geral - Parte 2](https://github.com/LuanLgn/Aula09/blob/main/Aula09/Overview%20pt2.PNG)
+
+## Mais Informações
+
+Para mais informações sobre cada funcionalidade, você pode acessar o [site do Desk Manager](https://deskmanager.com.br/funcionalidades/).
+
+
+## Como funciona
+- O time de implantação faz um treinamento com a equipe e depois do treinamento passa o bastão pro CSM apenas para acomapanhar o cliente.
 
 ---
 # Service Level Agreement (SLA)
