@@ -244,3 +244,61 @@ O sistema foi projetado com uma interface intuitiva e amigável, visando proporc
 ### SLA (Service Level Agreement)
 
 - **Métricas**: O sistema monitora e garante o cumprimento dos tempos de resposta estabelecidos no SLA para o primeiro atendimento e para o segundo atendimento, assegurando a qualidade e eficiência no suporte prestado.
+- 
+## Acordo de Nível Operacional (OLA) e Acordo de Nível de Serviço (SLA)
+
+### Acordo de Nível Operacional (OLA)
+
+O Acordo de Nível Operacional (OLA) é um acordo interno entre diferentes equipes ou departamentos dentro da mesma organização. Ele define os serviços que cada equipe fornece internamente, os responsáveis por esses serviços e os níveis de qualidade esperados. O OLA é essencial para garantir que as operações internas funcionem de forma eficiente e coordenada, garantindo que as equipes saibam quais são suas responsabilidades e como interagem umas com as outras.
+
+### Diferença entre OLA e SLA
+
+- **Escopo**: O OLA é interno e define os serviços entre equipes ou departamentos dentro da mesma organização, enquanto o SLA é externo e define os serviços entre um provedor de serviços e o cliente.
+- **Partes Envolvidas**: O OLA envolve equipes internas, enquanto o SLA envolve o provedor de serviços e o cliente.
+- **Foco**: O OLA se concentra em operações internas e na coordenação entre equipes, enquanto o SLA se concentra na entrega de serviços ao cliente.
+- **Níveis de Serviço**: O OLA pode incluir requisitos específicos de desempenho entre equipes, enquanto o SLA define os níveis de serviço esperados pelo cliente, como tempos de resposta e disponibilidade do serviço.
+- **Consequências**: O SLA geralmente inclui penalidades por não cumprir os termos do acordo, enquanto o OLA pode incluir ações corretivas ou melhoria contínua entre equipes.
+
+Em resumo, enquanto o OLA trata das operações internas entre equipes ou departamentos, o SLA é voltado para os serviços prestados ao cliente, definindo expectativas e responsabilidades para garantir a satisfação do cliente.
+
+# Filtros SLA (Service Level Agreement)
+
+Os filtros SLA são mecanismos cruciais para garantir que as expectativas dos clientes em relação aos serviços prestados sejam atendidas de maneira adequada. Eles são especialmente úteis em ambientes onde a rapidez e a eficiência na resolução de problemas são essenciais. Abaixo estão alguns exemplos comuns de filtros SLA:
+
+## Porte de Clientes:
+- **Descrição**: Classificação dos clientes de acordo com o tamanho de sua empresa, como pequenas, médias ou grandes empresas.
+- **Exemplo**: Clientes de grande porte podem ter prioridade em relação aos de pequeno porte.
+
+## Gravidade do Problema:
+- **Descrição**: Classificação dos problemas com base em sua gravidade e impacto nos negócios do cliente.
+- **Exemplo**: Problemas críticos que afetam diretamente as operações do cliente podem ter SLAs mais curtos e exigir uma resolução mais rápida.
+
+## SLA Interno x Externo:
+- **Descrição**: Diferenciação entre SLAs acordados internamente entre diferentes departamentos ou equipes e SLAs acordados com clientes externos.
+- **Exemplo**: O SLA interno pode definir prazos de resolução de problemas entre equipes de suporte, enquanto o SLA externo define compromissos com o cliente.
+
+## Maturidade de Operação:
+- **Descrição**: Avaliação do nível de maturidade operacional do cliente, refletindo sua capacidade de lidar com problemas.
+- **Exemplo**: Clientes mais maduros podem preferir uma abordagem mais autônoma na resolução de problemas, enquanto clientes menos maduros podem necessitar de mais assistência.
+
+## Departamento:
+- **Descrição**: Segmentação dos clientes com base no departamento ou área da empresa que está utilizando o serviço.
+- **Exemplo**: O departamento de TI pode ter SLAs diferentes do departamento de marketing, dependendo das necessidades específicas de cada um.
+
+## Tipo de Serviço:
+- **Descrição**: Classificação dos serviços oferecidos com base em suas características e complexidade.
+- **Exemplo**: Serviços críticos para os negócios podem ter SLAs mais rigorosos do que serviços menos importantes.
+
+## Distância Física:
+- **Descrição**: Consideração da localização geográfica do cliente em relação ao provedor de serviço.
+- **Exemplo**: Clientes mais distantes podem ter SLAs diferentes devido a questões de tempo de resposta e logística.
+
+## Contratos Específicos:
+- **Descrição**: Personalização dos SLAs de acordo com contratos específicos entre o provedor de serviço e o cliente.
+- **Exemplo**: Clientes que assinam contratos de nível de serviço personalizados podem ter SLAs adaptados às suas necessidades exclusivas.
+
+## Fuso Horário:
+- **Descrição**: Leva em consideração as diferenças de horário entre o provedor de serviço e o cliente.
+- **Exemplo**: SLAs podem ser ajustados para garantir suporte durante o horário comercial do cliente, independentemente do fuso horário do provedor de serviço.
+
+_PS:OLA's seria um filtro de SLA_
