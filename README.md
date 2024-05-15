@@ -369,3 +369,4 @@ A ITIL, ou Information Technology Infrastructure Library, é um conjunto de prá
 
 Em resumo, a ITIL é uma abordagem comprovada para o gerenciamento de serviços de TI que ajuda as organizações a fornecerem serviços de alta qualidade, alinhados com as necessidades e expectativas dos clientes, enquanto otimizam processos e recursos para alcançar os objetivos de negócio.
 
+- Os ICs são métricas específicas que são acordadas entre o provedor de serviços e o cliente para avaliar e monitorar o desempenho do serviço prestado.
