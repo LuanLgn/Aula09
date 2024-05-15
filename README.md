@@ -302,3 +302,31 @@ Os filtros SLA são mecanismos cruciais para garantir que as expectativas dos cl
 - **Exemplo**: SLAs podem ser ajustados para garantir suporte durante o horário comercial do cliente, independentemente do fuso horário do provedor de serviço.
 
 _PS:OLA's seria um filtro de SLA_
+
+# Prioridade de SLA (Service Level Agreement)
+
+As prioridades de SLA são uma forma de classificar a importância e a urgência dos incidentes ou solicitações de serviço com base em sua gravidade e impacto nos negócios. Geralmente, as prioridades são numeradas de 1 a 5, sendo 1 a mais alta prioridade e 5 a mais baixa.
+
+## Escala de Prioridades:
+
+- **Prioridade 1 (P1)**:
+  - **Descrição**: Incidentes ou solicitações críticas que têm um impacto significativo nos negócios do cliente.
+  - **Exemplo**: Uma interrupção total do sistema que afeta toda a operação do cliente.
+
+- **Prioridade 2 (P2)**:
+  - **Descrição**: Incidentes ou solicitações importantes que requerem uma resposta rápida, mas não são tão críticos quanto os de prioridade 1.
+  - **Exemplo**: Uma funcionalidade essencial do sistema está inoperante, mas o restante do sistema ainda está funcionando.
+
+- **Prioridade 3 (P3)**:
+  - **Descrição**: Incidentes ou solicitações urgentes que precisam ser resolvidos, mas que têm menos impacto imediato nos negócios.
+  - **Exemplo**: Um erro que afeta apenas um departamento específico do cliente.
+
+- **Prioridade 4 (P4)**:
+  - **Descrição**: Incidentes ou solicitações importantes, mas que não têm urgência imediata e podem ser resolvidos em um prazo mais longo.
+  - **Exemplo**: Uma solicitação de recurso ou melhoria de baixa prioridade.
+
+- **Prioridade 5 (P5)**:
+  - **Descrição**: Incidentes ou solicitações de baixa prioridade que não têm um impacto significativo nos negócios e podem ser tratados quando recursos estiverem disponíveis.
+  - **Exemplo**: Solicitações de informações ou consultas gerais que não afetam as operações do cliente.
+
+
