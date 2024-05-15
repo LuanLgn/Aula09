@@ -215,6 +215,32 @@ Um Service Level Agreement (SLA) é um acordo formal entre um provedor de servi�
 
 ---
 
+## Pt 2/3 Dias 14/15
 
+## Sistema de Compliance
 
+### Operações Principais (CRUDE)
 
+- **Create (Criar)**: Permite a criação de novos registros no sistema.
+- **Research (Pesquisar)**: Facilita a busca por registros existentes com base em critérios específicos.
+- **Update (Atualizar)**: Possibilita a modificação de informações em registros já existentes.
+- **Delete (Deletar)**: Permite a remoção de registros do sistema.
+- **Export (Exportar)**: Oferece a funcionalidade de exportar dados para outros formatos ou sistemas.
+
+### Tipos de Clientes e Solicitantes
+
+- **Clientes Diferentes do Solicitante**: Permite que um cliente seja diferente do solicitante, garantindo flexibilidade no sistema.
+- **Solicitante Multiempresa**: Habilita a identificação de solicitantes que representam mais de uma empresa.
+- **Hierarquia do Solicitante**:
+  - **Gerente**: Responsável por supervisão e tomada de decisões de alto nível.
+  - **Administrador**: Encarregado da administração do sistema e configurações avançadas.
+  - **Operador**: Usuário comum com permissões básicas.
+  - **Operador VIP**: Usuário com permissões privilegiadas ou prioridade no atendimento.
+
+### Facilidade de Uso
+
+O sistema foi projetado com uma interface intuitiva e amigável, visando proporcionar uma experiência positiva para o usuário. Todos os recursos são acessíveis de forma simples e clara.
+
+### SLA (Service Level Agreement)
+
+- **Métricas**: O sistema monitora e garante o cumprimento dos tempos de resposta estabelecidos no SLA para o primeiro atendimento e para o segundo atendimento, assegurando a qualidade e eficiência no suporte prestado.
