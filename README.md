@@ -366,7 +366,46 @@ A ITIL, ou Information Technology Infrastructure Library, é um conjunto de prá
 - **Alinhamento com os Objetivos de Negócio**: A ITIL garante que os serviços de TI estejam alinhados com os objetivos e prioridades de negócio da organização.
 
 - **Melhoria da Comunicação e Colaboração**: A ITIL promove uma comunicação mais eficaz e colaboração entre as equipes de TI e as partes interessadas internas e externas.
+- 
 
 Em resumo, a ITIL é uma abordagem comprovada para o gerenciamento de serviços de TI que ajuda as organizações a fornecerem serviços de alta qualidade, alinhados com as necessidades e expectativas dos clientes, enquanto otimizam processos e recursos para alcançar os objetivos de negócio.
 
 - Os ICs são métricas específicas que são acordadas entre o provedor de serviços e o cliente para avaliar e monitorar o desempenho do serviço prestado.
+
+## Pt 4 Dias 21
+
+# Configuration Management Database (CMDB)
+
+## O que é um CMDB?
+
+O CMDB, ou Banco de Dados de Gerenciamento de Configuração, é um repositório centralizado de informações sobre os componentes de hardware e software de um sistema de TI. Ele fornece uma visão detalhada e precisa dos ativos e recursos de TI de uma organização, incluindo servidores, dispositivos de rede, aplicativos, licenças de software e suas inter-relações.
+
+## Objetivos do CMDB:
+
+- **Gestão de Ativos:** Manter um registro preciso dos ativos de TI da organização, incluindo detalhes como localização, proprietário, status e histórico de mudanças.
+
+- **Gestão de Configuração:** Rastrear e gerenciar as configurações de todos os itens de configuração (CIs) e suas inter-relações ao longo do ciclo de vida.
+
+- **Suporte à Tomada de Decisão:** Fornecer informações atualizadas e precisas para ajudar na tomada de decisões relacionadas a mudanças, atualizações e otimizações da infraestrutura de TI.
+
+## Funcionalidades do CMDB:
+
+- **Registro de Ativos:** Armazenamento de informações detalhadas sobre todos os ativos de TI da organização, incluindo atributos como tipo, fabricante, modelo e número de série.
+
+- **Relacionamentos:** Captura e visualização das relações entre os diferentes ativos e componentes de TI, permitindo uma compreensão abrangente da infraestrutura.
+
+- **Rastreamento de Mudanças:** Registro e controle de todas as mudanças feitas nos ativos de TI, permitindo um histórico completo das alterações e facilitando a resolução de problemas.
+
+- **Integração com Outras Ferramentas:** Integração com ferramentas de gerenciamento de serviços de TI (ITSM), monitoramento de desempenho, automação de processos e outras soluções relacionadas.
+
+## Benefícios do CMDB:
+
+- **Melhoria da Visibilidade:** Oferece uma visão unificada e atualizada dos ativos e configurações de TI, melhorando a visibilidade e o controle sobre a infraestrutura.
+
+- **Apoio à Conformidade:** Facilita o cumprimento de regulamentações e padrões de segurança, garantindo uma documentação precisa e completa dos ativos de TI.
+
+- **Redução de Riscos e Custos:** Ajuda a mitigar riscos relacionados a mudanças não autorizadas ou não planejadas, além de otimizar o uso de recursos de TI e reduzir custos desnecessários.
+
+## Conclusão
+
+O CMDB desempenha um papel fundamental na gestão eficaz da infraestrutura de TI, fornecendo uma base sólida para a tomada de decisões informadas e a execução de operações de TI eficientes e seguras.
